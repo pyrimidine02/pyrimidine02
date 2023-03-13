@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+![Kotlin](https://img.shields.io/badge/Kotlin-#7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=#7F52FF)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/sonhy02/)
 <!--
 **sonhy02/sonhy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
