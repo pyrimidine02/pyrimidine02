@@ -23,11 +23,11 @@
 <h3 align="center">🎸 뱅드림!</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/ranna.png" alt="카나메 라나" width="420" />
-  <img src="https://r2.pyrimidines.org/readme/aya.png" alt="마루야마 아야" width="420" />
-  <img src="https://r2.pyrimidines.org/readme/moka.png" alt="아오바 모카" width="420" />
-  <img src="https://r2.pyrimidines.org/readme/rock.png" alt="아사히 롯카" width="420" />
-  <img src="https://r2.pyrimidines.org/readme/arisa.png" alt="이치가야 아리사" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/ranna.webp" alt="카나메 라나" width="220" />
+  <img src="https://r2.pyrimidines.org/readme/aya.webp" alt="마루야마 아야" width="220" />
+  <img src="https://r2.pyrimidines.org/readme/moka.webp" alt="아오바 모카" width="220" />
+  <img src="https://r2.pyrimidines.org/readme/rock.webp" alt="아사히 롯카" width="220" />
+  <img src="https://r2.pyrimidines.org/readme/arisa.webp" alt="이치가야 아리사" width="220" />
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 <h3 align="center">🥁 걸즈밴드크라이</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/subaru.png" alt="아와 스바루" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/subaru.webp" alt="아와 스바루" width="420" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <h3 align="center">🍷 데레마스</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/kaede.png" alt="타카가키 카에데" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/kaede.webp" alt="타카가키 카에데" width="420" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 <h3 align="center">🎓 학원마스</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/kotone.png" alt="후지타 코토네" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/kotone.webp" alt="후지타 코토네" width="420" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@
 <h3 align="center">🎼 결속밴드</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/ryo.png" alt="야마다 료" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/ryo.webp" alt="야마다 료" width="420" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 <h3 align="center">🌟 Liella!</h3>
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/keke.jpg" alt="탕 쿠쿠" width="420" />
+  <img src="https://r2.pyrimidines.org/readme/keke.webp" alt="탕 쿠쿠" width="420" />
 </p>
 
 <p align="center">
