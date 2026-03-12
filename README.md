@@ -67,8 +67,8 @@
   <img src="https://r2.pyrimidines.org/readme/subaru.webp" alt="아와 스바루" width="170" />
   <img src="https://r2.pyrimidines.org/readme/kaede.webp" alt="타카가키 카에데" width="130" />
   <img src="https://r2.pyrimidines.org/readme/kotone.webp" alt="후지타 코토네" width="130" />
-  <img src="https://r2.pyrimidines.org/readme/ryo.webp" alt="야마다 료" width="140" />
-  <img src="https://r2.pyrimidines.org/readme/keke.webp" alt="탕 쿠쿠" width="140" />
+  <img src="https://r2.pyrimidines.org/readme/ryo.webp" alt="야마다 료" width="170" />
+  <img src="https://r2.pyrimidines.org/readme/keke.webp" alt="탕 쿠쿠" width="170" />
 </p>
 <p align="center">
   아와 스바루 · 타카가키 카에데 · 후지타 코토네 · 야마다 료 · 탕 쿠쿠
