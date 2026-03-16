@@ -51,11 +51,11 @@
 ### 🎸 뱅드림!
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/ranna.webp" alt="카나메 라나" width="160" />
-  <img src="https://r2.pyrimidines.org/readme/aya.webp" alt="마루야마 아야" width="160" />
-  <img src="https://r2.pyrimidines.org/readme/moka.webp" alt="아오바 모카" width="160" />
-  <img src="https://r2.pyrimidines.org/readme/rock.webp" alt="아사히 롯카" width="160" />
-  <img src="https://r2.pyrimidines.org/readme/arisa.webp" alt="이치가야 아리사" width="160" />
+  <img src="https://r2.noraneko.cc/readme/ranna.webp" alt="카나메 라나" width="160" />
+  <img src="https://r2.noraneko.cc/readme/aya.webp" alt="마루야마 아야" width="160" />
+  <img src="https://r2.noraneko.cc/readme/moka.webp" alt="아오바 모카" width="160" />
+  <img src="https://r2.noraneko.cc/readme/rock.webp" alt="아사히 롯카" width="160" />
+  <img src="https://r2.noraneko.cc/readme/arisa.webp" alt="이치가야 아리사" width="160" />
 </p>
 <p align="center">카나메 라나 · 마루야마 아야 · 아오바 모카 · 아사히 롯카 · 이치가야 아리사</p>
 
@@ -64,11 +64,11 @@
 ### 🥁 걸즈밴드크라이 · 🍷 데레마스 · 🎓 학원마스 · 🎼 결속밴드 · 🌟 Liella!
 
 <p align="center">
-  <img src="https://r2.pyrimidines.org/readme/subaru.webp" alt="아와 스바루" width="170" />
-  <img src="https://r2.pyrimidines.org/readme/kaede.webp" alt="타카가키 카에데" width="130" />
-  <img src="https://r2.pyrimidines.org/readme/kotone.webp" alt="후지타 코토네" width="130" />
-  <img src="https://r2.pyrimidines.org/readme/ryo.webp" alt="야마다 료" width="170" />
-  <img src="https://r2.pyrimidines.org/readme/keke.webp" alt="탕 쿠쿠" width="170" />
+  <img src="https://r2.noraneko.cc/readme/subaru.webp" alt="아와 스바루" width="170" />
+  <img src="https://r2.noraneko.cc/readme/kaede.webp" alt="타카가키 카에데" width="130" />
+  <img src="https://r2.noraneko.cc/readme/kotone.webp" alt="후지타 코토네" width="130" />
+  <img src="https://r2.noraneko.cc/readme/ryo.webp" alt="야마다 료" width="170" />
+  <img src="https://r2.noraneko.cc/readme/keke.webp" alt="탕 쿠쿠" width="170" />
 </p>
 <p align="center">
   아와 스바루 · 타카가키 카에데 · 후지타 코토네 · 야마다 료 · 탕 쿠쿠
